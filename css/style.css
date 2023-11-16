@@ -1,0 +1,19 @@
+
+@font-face {
+    font-family: 'MadaniArabic';
+    src: url('../fonts/MadaniArabic-Regular.eot');
+    src: url('../fonts/MadaniArabic-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MadaniArabic-Regular.woff2') format('woff2'),
+        url('../fonts/MadaniArabic-Regular.woff') format('woff'),
+        url('../fonts/MadaniArabic-Regular.ttf') format('truetype'),
+        url('../fonts/MadaniArabic-Regular.svg#MadaniArabic-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    direction: rtl;
+    font-family: 'MadaniArabic' !important;
+}
+
