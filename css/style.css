@@ -17,3 +17,9 @@ body {
     font-family: 'MadaniArabic' !important;
 }
 
+.auth-fluid-right {
+    background-image: url('../images/bg-login.jpeg');
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.747);
+    background-blend-mode: overlay
+}
